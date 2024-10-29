@@ -1,0 +1,9 @@
+.bs_breadcrumbs {
+	background: #eaeaea;
+	padding: 2px 10px;
+	margin: 10px 0;
+}
+
+.bs_breadcrumbs .cats_list a:last-child{  
+	font-weight:bold;
+}
